@@ -86,6 +86,9 @@
 			fileSystemSynchronizedGroups = (
 				08BC4F372D7F542F00482C39 /* Views */,
 			);
+			productName = "ahoui-ios";
+			productReference = B7F8E1DC2D75CA6A000B5D90 /* ahoui-ios.app */;
+			productType = "com.apple.product-type.application";
 			name = "ahoui-ios";
 		};
 /* End PBXNativeTarget section */
