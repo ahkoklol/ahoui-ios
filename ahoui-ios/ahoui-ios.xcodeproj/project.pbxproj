@@ -21,10 +21,6 @@
 		B7F8E1E62D75CA6B000B5D90 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
-/* Begin PBXFileSystemSynchronizedRootGroup section */
-		08BC4F372D7F542F00482C39 /* Views */ = {isa = PBXFileSystemSynchronizedRootGroup; explicitFileTypes = {}; explicitFolders = (); path = Views; sourceTree = "<group>"; };
-/* End PBXFileSystemSynchronizedRootGroup section */
-
 /* Begin PBXFrameworksBuildPhase section */
 		B7F8E1D92D75CA6A000B5D90 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
@@ -91,9 +87,6 @@
 				08BC4F372D7F542F00482C39 /* Views */,
 			);
 			name = "ahoui-ios";
-			productName = "ahoui-ios";
-			productReference = B7F8E1DC2D75CA6A000B5D90 /* ahoui-ios.app */;
-			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
