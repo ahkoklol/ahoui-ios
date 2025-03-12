@@ -9,7 +9,7 @@ struct NouveauManager: View {
     
     var body: some View {
         VStack {
-            // Header
+            // Header to be replaced by navbar
             HStack {
                 Image(systemName: "line.horizontal.3")
                     .font(.title)
